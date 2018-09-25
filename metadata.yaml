@@ -1,16 +1,21 @@
 _repo: On-Mule-Back-Thru-Central-America-with-the-Gospel_57432
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Kinne, Seeley D.
     gutenberg_agent_id: '49383'
     url: http://www.gutenberg.org/2009/agents/49383
+covers:
+- cover_type: archival
+  image_path: 57432-h/images/cover.jpg
 creator:
   author:
     agent_name: Crawford, Mattie
     gutenberg_agent_id: '49382'
     url: http://www.gutenberg.org/2009/agents/49382
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57432#On-Mule-Back-Thru-Central-America-with-the-Gospel
 gutenberg_issued: '2018-07-01'
 gutenberg_type: Text
 identifiers:
